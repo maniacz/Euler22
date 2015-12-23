@@ -1,1 +1,6 @@
 D:\Documents and Settings\kipkal\GIT\Euler22\bin\Debug\Euler22.exe.config
+D:\Documents and Settings\kipkal\GIT\Euler22\bin\Debug\Euler22.exe
+D:\Documents and Settings\kipkal\GIT\Euler22\bin\Debug\Euler22.pdb
+D:\Documents and Settings\kipkal\GIT\Euler22\obj\Debug\Euler22.csprojResolveAssemblyReference.cache
+D:\Documents and Settings\kipkal\GIT\Euler22\obj\Debug\Euler22.exe
+D:\Documents and Settings\kipkal\GIT\Euler22\obj\Debug\Euler22.pdb
